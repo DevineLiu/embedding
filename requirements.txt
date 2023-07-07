@@ -1,0 +1,10 @@
+langchain
+gradio
+transformers
+sentence_transformers
+faiss-cpu
+unstructured
+duckduckgo_search
+mdtex2html
+cpm_kernels
+accelerate
